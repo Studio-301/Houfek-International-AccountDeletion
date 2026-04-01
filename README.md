@@ -13,7 +13,7 @@ If you have created an account in the Houfek International app, you can request 
 
 ## What happens when you delete your account
 
-When you delete your account in the app, your account and associated data are permanently deleted.
+When you delete your account in the app, your account and associated data are scheduled for permanent deletion.
 
 This includes:
 - your account used to sign in to the app
@@ -23,7 +23,7 @@ After deletion is completed, you will no longer be able to sign in with that acc
 
 ## Data retention
 
-Once the deletion request is completed, the account and associated data are deleted and are no longer available for use in the app.
+All account-related data will be deleted within a maximum of 90 days from the confirmed deletion request.
 
 ## Need help
 
