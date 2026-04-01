@@ -1,31 +1,30 @@
-# Account Deletion - Houfek International
+# Houfek International Account Deletion
 
-Houfek International provides users with the ability to delete their account directly in the mobile application.
+This page explains how users of the Houfek International mobile application can delete their account and associated data.
 
-## Deleting your account
+## How to delete your account
 
-To delete your account:
+If you have created an account in the Houfek International app, you can request deletion directly in the app:
 
-1. Open the Houfek International app.
-2. Sign in to your account.
-3. Navigate to the account settings section.
-4. Select `Delete My Account`.
-5. Confirm the deletion request.
+1. Sign in to your account in the Houfek International app.
+2. Open the account or profile section.
+3. Tap `Delete My Account`.
+4. Confirm the deletion request.
 
-## Deleted data
+## What happens when you delete your account
 
-When a user deletes their account, the following is deleted:
-- the user account
-- associated account data related to the app
+When you delete your account in the app, your account and associated data are permanently deleted.
 
-## Retained data
+This includes:
+- your account used to sign in to the app
+- data associated with that account in our application systems
 
-No associated account data is retained after account deletion, unless retention is required by applicable law.
+After deletion is completed, you will no longer be able to sign in with that account.
 
-## Support
+## Data retention
 
-If you need assistance with deleting your account, please contact Houfek International through the contact information provided on the official company website.
+Once the deletion request is completed, the account and associated data are deleted and are no longer available for use in the app.
 
-## Developer name
+## Need help
 
-Houfek International
+If you experience any issue with account deletion, please contact us at [houfek@houfek.com](mailto:houfek@houfek.com).
